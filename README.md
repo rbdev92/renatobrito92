@@ -34,5 +34,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/renatobrito92"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="renatobrito92" /></a></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatobrito92&show_icons=true&locale=en" alt="renatobrito92" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatobrito92&" alt="renatobrito92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatobrito92&show_icons=true&locale=en" alt="renatobrito92" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatobrito92&" alt="renatobrito92" /></p>
