@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my personal page](https://renatobrito92.github.io/portfolio)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and Node.js**
 
 - 👯 I’m looking to collaborate on [Desafio Bruxo](https://github.com/LarissaAzevedo/DesafioBruxo)
 
