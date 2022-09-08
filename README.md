@@ -15,8 +15,6 @@
 
 - 📝 I regularly write articles on [dev.to/renatobrito92](dev.to/renatobrito92)
 
-- 📫 How to reach me **dev.renatobrito@gmail.com**
-
 - ⚡ Fun fact **I look serious, but I'm fun, believe me.**
 
 <h3 align="left">Connect with me:</h3>
