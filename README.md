@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Desafio Bruxo](https://github.com/LarissaAzevedo/DesafioBruxo)
 
-- 📝 I regularly write articles on [dev.to/rbdev92](dev.to/rbdev92)
+- 📝 I regularly write articles on [dev.to/rbdev92](https://dev.to/rbdev92)
 
 - ⚡ Fun fact **I look serious, but I'm fun, believe me.**
 
