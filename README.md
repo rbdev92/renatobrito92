@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Renato Brito</h1>
-<h3 align="center">A passionate in technology from Brazil</h3>
+<h3 align="center">A technology enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbdev92&label=Profile%20views&color=0e75b6&style=flat" alt="rbdev92" /> </p>
 
