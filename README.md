@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://dev.to/rbdev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rbdev92" height="30" width="40" /></a>
 <a href="https://twitter.com/rbdev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rbdev92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rbdev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbdev92" height="30" width="40" /></a>
-<a href="https://instagram.com/renatobrito.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renatobrito.dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renatobrito92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbdev92" height="30" width="40" /></a>
+<a href="https://instagram.com/rbdev92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rbdev92" height="30" width="40" /></a>
 <a href="https://discord.gg/#8522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8522" height="30" width="40" /></a>
 </p>
 
