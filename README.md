@@ -14,17 +14,10 @@
 
 ## Encontre-me nas redes
 
-- [Artigos no Dev](https://dev.to/rbdev92)
-<!-- ![DEV](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg) -->
-
-- [X](https://twitter.com/rbdev92)
-<!-- ![X](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg) -->
+- [Artigos no Dev (Em processo)](https://dev.to/rbdev92)
 
 - [Linkedin](https://www.linkedin.com/in/renatobrito92/)
-<!-- ![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) -->
 
 - [Instagram](https://instagram.com/rbdev92)
-<!-- ![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg) -->
 
 - [Discord](https://discord.gg/#8522)
-<!-- ![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg) -->
