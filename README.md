@@ -1,6 +1,6 @@
 # Olá 👋🏽, Sou o Renato Brito
 
-## Apaixonado por tecnologia
+## Amante da tecnologia e desenvolvimento web, busco projetos que me permitam contribuir positivamente para a comunidade.
 
 ### Linguagens e Ferramentas
 
