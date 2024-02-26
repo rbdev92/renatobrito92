@@ -8,13 +8,12 @@
 - CSS
 - JavaScript
 - NodeJS
-- UX
 - VSCode
 - Notion
 
 ## Encontre-me nas redes
 
-- [Artigos no Dev (Em processo)](https://dev.to/rbdev92)
+- [Artigos no Dev (em breve)](https://dev.to/rbdev92)
 
 - [Linkedin](https://www.linkedin.com/in/renatobrito92/)
 
