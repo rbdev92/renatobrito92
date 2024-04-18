@@ -18,7 +18,7 @@ Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, R
 
 ## Redes Sociais
 
-- [Linkedin](https://www.linkedin.com/in/renatobrito92/)
+- [Linkedin](https://www.linkedin.com/in/renatobritodev/)
 
 - [Instagram](https://instagram.com/renatobrito.dev)
 
