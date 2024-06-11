@@ -1,4 +1,4 @@
-# Olá 👋🏽, Sou o Renato Brito
+# Olá 👋🏽, sou o Renato Brito
 
 Meu primeiro contato com programação foi através do banco de dados relacional MySQL em 2013.
 
