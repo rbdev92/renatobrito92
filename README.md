@@ -19,6 +19,7 @@ Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, R
 
 ## Banco de Dados
 
+- MySQL
 - PostgreSQL
 - MongoDB
 
