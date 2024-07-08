@@ -17,15 +17,21 @@ Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, R
 - Node.js
 - Express.js
 
-## Database
+## Banco de Dados
 
 - PostgreSQL
 - MongoDB
 
-## Tools
+## Ferramentas
 
 - Visual Studio Code
 - Notion
+
+## Setup
+
+- Laptop Dell Series 3000 - Core i3
+- Generic Mouse
+- Headphone Logitech H390
 
 ## Redes Sociais
 
