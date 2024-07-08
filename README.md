@@ -15,6 +15,17 @@ Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, R
 ## Back-end
 
 - Node.js
+- Express.js
+
+## Database
+
+- PostgreSQL
+- MongoDB
+
+## Tools
+
+- Visual Studio Code
+- Notion
 
 ## Redes Sociais
 
