@@ -41,3 +41,5 @@ Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, R
 - [Instagram](https://instagram.com/renatobrito.dev)
 
 - [Discord](https://discord.gg/#8522)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66d7e55c553501e3c3111823?variant=dark&roadmaps=frontend)](https://roadmap.sh)
