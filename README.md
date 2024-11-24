@@ -6,7 +6,7 @@
 
 ## 👨🏾‍💻 Sobre
 
-Sou um entusiasta de tecnologia e autodidata apaixonado por desenvolvimento web. Meu primeiro contato com programação foi em 2019, quando ingressei na faculdade de **Análise e Desenvolvimento de Sistemas** pela Anhanguera. Infelizmento não pude concluir o curso.
+Sou um entusiasta de tecnologia e autodidata apaixonado por desenvolvimento web. Meu primeiro contato com programação foi em 2019, quando ingressei na faculdade de **Análise e Desenvolvimento de Sistemas** pela Anhanguera. Infelizmente não pude concluir o curso.
 
 Atualmente, me especializo em **JavaScript** e suas principais tecnologias, como **Node.js**, **React.js** e **Next.js**, desenvolvendo soluções web modernas e funcionais. Meu foco está em criar interfaces intuitivas e experiências digitais que façam a diferença para os usuários.
 
