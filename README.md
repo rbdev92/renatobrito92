@@ -6,12 +6,11 @@
 
 ## 👨🏾‍💻 Sobre
 
-Sou um entusiasta de tecnologia e autodidata apaixonado por desenvolvimento web. Meu primeiro contato com programação foi em 2019, explorando bancos de dados relacionais, e desde então, venho aprimorando minhas habilidades e conhecimentos de forma contínua.
+Sou um entusiasta de tecnologia e autodidata apaixonado por desenvolvimento web. Meu primeiro contato com programação foi em 2019, quando ingressei na faculdade de **Análise e Desenvolvimento de Sistemas** pela Anhanguera. Infelizmento não pude concluir o curso.
 
 Atualmente, me especializo em **JavaScript** e suas principais tecnologias, como **Node.js**, **React.js** e **Next.js**, desenvolvendo soluções web modernas e funcionais. Meu foco está em criar interfaces intuitivas e experiências digitais que façam a diferença para os usuários.
 
 Meu objetivo é me tornar **Desenvolvedor Full Stack**. Quero colaborar com projetos impactantes e inovadores, crescer profissionalmente enquanto busco aprender continuamente, expandir meu portfólio e transformar ideias em realidade por meio da tecnologia.
-
 ## 🛠️ Tech Stack
 
 ### 💻 Front-end
