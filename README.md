@@ -1,45 +1,35 @@
-# Olá 👋🏽, sou o Renato Brito
+# 👋🏽 Olá, eu sou o Renato, Desenvolvedor Front-end
 
-Meu primeiro contato com programação foi através do banco de dados relacional MySQL em 2013.
+[![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github)](https://github.com/renatobritodev)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/renatobritodev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail)](mailto:dev.renatobrito@gmail.com)
 
-Em 2019, ingressei na faculdade e conquistei uma vaga no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Anhanguera. Avancei por três semestres, mas as adversidades trazidas pela pandemia do COVID-19 resultaram em desemprego, impedindo-me de concluir o curso. 
+## 👨🏾‍💻 Sobre
 
-Atualmente, atuo como autodidata, focando meus estudos em JavaScript (Node.js, React.js e Next.js) e na aplicação de ferramentas relevantes para o Desenvolvimento Web. Estou comprometido em aprimorar minhas habilidades e superar os desafios para alcançar meus objetivos na área.
+Sou um entusiasta de tecnologia e autodidata apaixonado por desenvolvimento web. Meu primeiro contato com programação foi em 2019, explorando bancos de dados relacionais, e desde então, venho aprimorando minhas habilidades e conhecimentos de forma contínua.
 
-## Front-end
+Atualmente, me especializo em **JavaScript** e suas principais tecnologias, como **Node.js**, **React.js** e **Next.js**, desenvolvendo soluções web modernas e funcionais. Meu foco está em criar interfaces intuitivas e experiências digitais que façam a diferença para os usuários.
 
-- HTML
-- CSS
-- JavaScript
+Meu objetivo é me tornar **Desenvolvedor Full Stack**. Quero colaborar com projetos impactantes e inovadores, crescer profissionalmente enquanto busco aprender continuamente, expandir meu portfólio e transformar ideias em realidade por meio da tecnologia.
 
-## Back-end
+## 🛠️ Tech Stack
 
-- Node.js
-- Express.js
+### 💻 Front-end
 
-## Banco de Dados
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-- MySQL
-- PostgreSQL
-- MongoDB
+### ⚙️ Back-end e banco de dados
 
-## Ferramentas
+![Node.js][def]
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-- Visual Studio Code
-- Notion
+### 🚀 Um pouco mais sobre o meu perfil
 
-## Setup
+![Renato Brito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobritodev&show_icons=true&theme=tokyonight)
 
-- Laptop Dell Series 3000 - Core i3
-- Generic Mouse
-- Headphone Logitech H390
-
-## Redes Sociais
-
-- [Linkedin](https://www.linkedin.com/in/renatobritodev/)
-
-- [Instagram](https://instagram.com/renatobrito.dev)
-
-- [Discord](https://discord.gg/#8522)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66d7e55c553501e3c3111823?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[def]: https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js
