@@ -1,6 +1,5 @@
 # 👋🏽 Olá, eu sou o Renato, Desenvolvedor Web
 
-[![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github)](https://github.com/renatobritodev)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/renatobritodev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail)](mailto:dev.renatobrito@gmail.com)
 
