@@ -4,11 +4,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=Gmail)](mailto:dev.renatobrito@gmail.com)
 
 ## 👨🏾‍💻 Sobre
-Sou um apaixonado por tecnologia e autodidata no mundo do desenvolvimento web. Meu primeiro contato com programação aconteceu em 2019, quando iniciei minha graduação em Análise e Desenvolvimento de Sistemas na Anhanguera. Apesar de não ter concluído o curso, minha vontade de aprender nunca parou, e desde então venho aprimorando minhas habilidades por conta própria.
+Sou um apaixonado por tecnologia e autodidata no mundo do desenvolvimento web. Meu primeiro contato com programação aconteceu em 2019, quando iniciei minha graduação em **Análise e Desenvolvimento de Sistemas** na Anhanguera. Apesar de não ter concluído o curso, minha vontade de aprender nunca parou, e desde então venho aprimorando minhas habilidades por conta própria.
 
-Hoje, especializo-me em JavaScript e suas principais tecnologias, como Node.js, React.js e Next.js, criando soluções web modernas, escaláveis e funcionais. Meu foco é desenvolver interfaces intuitivas e experiências digitais envolventes que realmente agreguem valor aos usuários.
+Hoje, especializo-me em **JavaScript** e suas principais tecnologias, como **Node.js**, **React.js** e **Next.js**, criando soluções web modernas, escaláveis e funcionais. Meu foco é desenvolver interfaces intuitivas e experiências digitais envolventes que realmente agreguem valor aos usuários.
 
-Meu objetivo é me tornar um Desenvolvedor Full Stack e trabalhar em projetos inovadores e impactantes. Estou sempre em busca de novos desafios, ampliando meu portfólio e transformando ideias em soluções tecnológicas eficientes.
+Meu objetivo é me tornar um **Desenvolvedor Full Stack** e trabalhar em projetos inovadores e impactantes. Estou sempre em busca de novos desafios, ampliando meu portfólio e transformando ideias em soluções tecnológicas eficientes.
 
 ## 🛠️ Tech Stack
 
